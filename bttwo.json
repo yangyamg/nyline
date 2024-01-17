@@ -30,7 +30,7 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索url":"/xssearch?q={wd}",
+    "搜索url":"/xsssearch?q={wd}",
     
     "搜索数组":"thumb lazy\"&&</a></h3>",
     
