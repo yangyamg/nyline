@@ -26,10 +26,7 @@
   "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
   "播放数组": "<div class=\"module-play-list\">&&</div>",
-  "跳转播放链接": "\"url\"*\"&&\"",
-  "播放标题": "\"name\"*\"&&\"",
   "跳转解析": "索尼[无广]$http://api.suxun.site/api/delad?url=",
-  "播放链接": "解析+\"url\"*\"&&\"",
   "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
   "筛选":{
 "1":[
